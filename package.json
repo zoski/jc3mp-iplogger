@@ -1,0 +1,8 @@
+{
+    "authors": [],
+    "jcmp_dependencies": [],
+    
+    "main": "main.js",
+    "name": "bare-minimum",
+    "version": "1.0.0"
+}
