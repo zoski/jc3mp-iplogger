@@ -1,8 +1,8 @@
 {
-  "name": "bare-minimum",
+  "name": "iplogger",
   "version": "1.0.0",
   "main": "main.js",
 
-  "author": "Jan Christophersen <jan.c@nanos.io>",
+  "author": "Gaël Alberola <zoski@free.fr>",
   "license": "MIT"
 }
