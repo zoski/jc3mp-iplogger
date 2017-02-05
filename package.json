@@ -1,8 +1,9 @@
 {
   "name": "iplogger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
 
-  "author": "Gaël Alberola <zoski@free.fr>",
+  "author": "Gaël Alberola <zoski@free.fr> (https://zoski.fr)",
+  "contributors": [{"name": "TarryPaloma"}],
   "license": "MIT"
 }
