@@ -12,6 +12,12 @@ var datetime = `${d.getDate()}/${d.getMonth()+1}/${d.getFullYear()} | ${d.getHou
             return console.log(err);
         }
 	})
+    // login only IPs on JOIN
+    fs.appendFile("logs/IPs.log", `${client.ipAddress}`, function(err) {
+        if(err) {
+            return console.log(err);
+        }
+	})
     console.log(`[IPL JOIN] ${datetime} | ip : ${client.ipAddress} - steamId : ${client.steamId} - name : ${client.name}`);
 
 
