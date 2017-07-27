@@ -1,4 +1,3 @@
-=======
 # jc3mp-iplogger
 A small package that log players IP to a log file and display a ligne in the server terminal. I use it to create a temporary whitelist during DDOS.
 
